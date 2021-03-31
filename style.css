@@ -1,4 +1,17 @@
 body {
     font-size: 20;
-    color: royalblue;
+    background-color:wheat;
+}
+
+h1{
+    font-size: 2em;
+    text-align: center;
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+img {
+    width: 30%;
+    height: auto;
+    display: inline-block;
 }
