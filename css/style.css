@@ -1,6 +1,10 @@
 body {
     font-size: 20;
     background-color:wheat;
+    background-image: url('/images/background-img.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 h1{
