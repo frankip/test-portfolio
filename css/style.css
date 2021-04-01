@@ -47,3 +47,16 @@ h2 {
     text-align: center;
     color: rebeccapurple;
 }
+
+
+#ordered {
+    align-content: center;
+    text-align: center;
+    padding: 15px;
+    color: blue;
+    text-transform: uppercase;
+}
+
+ol .new{
+    text-transform: capitalize;
+}
