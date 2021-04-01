@@ -1,0 +1,49 @@
+body {
+    font-size: 20;
+    background-color:wheat;
+}
+
+h1{
+    font-size: 2em;
+    text-align: center;
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+img {
+    width: 30%;
+    height: auto;
+    display: inline-block;
+}
+.intro {
+    font-size: 30px; 
+    color:cornflowerblue; 
+    margin: 10px; 
+}
+
+h2 {
+    
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
+    color:whitesmoke;
+    text-align: center;
+    text-shadow: 10px;
+    box-shadow: 30px;
+}
+
+.text{
+    font-size: 25px;
+    color: yellowgreen;
+    text-align: left;
+
+}
+
+.center{
+    text-align: center;
+}
+
+.custom-text {
+    font-size: 25Px;
+    text-align: center;
+    color: rebeccapurple;
+}
